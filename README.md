@@ -1,2 +1,3 @@
-# malty
-malty_repository
+# SwiftUI Clone Coding
+여러 유명한 대기업 / iWorks 앱을 똑같이 만들어보며 공부하는 레포지토리 입니다.
+뷰를 그리기 위한 최적화 방법 및 유지보수, MVVM 패턴으로 데이터 저장 및 호출에 목표를 두었습니다. 
